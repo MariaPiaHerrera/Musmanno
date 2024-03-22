@@ -76,3 +76,8 @@ main h1 {
     background-color: #f1ffc4;
     grid-column: 3 / 4;
 }
+
+.pop{
+    background-color: #aff8af;
+    grid-column: 4 / 5;
+}
